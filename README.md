@@ -39,4 +39,6 @@ SoftMax
 
 ### Batch size = 512
 
-### Accuracy - ### 89.1 ## in 23rd EPOC 
+### Accuracy - 
+### 89.1 
+## in 23rd EPOC 
