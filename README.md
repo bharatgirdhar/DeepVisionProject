@@ -26,11 +26,11 @@ FC Layer
 SoftMax
 
 ### One Cycle Policy such that:
-Total Epochs = 24
-Max at Epoch = 5
-LRMIN = FIND
-LRMAX = FIND
-NO Annihilation
+1. Total Epochs = 24
+2. Max at Epoch = 5
+3. LRMIN = 0.0001
+4. LRMAX = 0.2
+5. NO Annihilation
 
 ## Transformations in sequence- 
 1. RandomCrop 32, 32 (after padding of 4) 
@@ -39,4 +39,4 @@ NO Annihilation
 
 ### Batch size = 512
 
-## Accuracy - 89.1 in 23rd EPOC 
+### Accuracy - ### 89.1 ## in 23rd EPOC 
