@@ -44,8 +44,8 @@ SoftMax
 ### in 23rd EPOC 
 
 ## LR Graphs
-Exponential LR
-  ![Increasing LR Exponentially](/extra/Exponential_LR.png)
+### Exponential LR
+![Increasing LR Exponentially](/extra/Exponential_LR.png)
   
-  Linear LR
-  ![Increasing LR Exponentially](/extra/Sequential_LR.png)
+### Linear LR
+![Increasing LR Exponentially](/extra/Sequential_LR.png)
