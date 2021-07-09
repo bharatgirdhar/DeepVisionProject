@@ -40,5 +40,12 @@ SoftMax
 ### Batch size = 512
 
 ### Accuracy - 
-## <U style="background-color:powderblue;">89.1 
+## 89.1 
 ### in 23rd EPOC 
+
+## LR Graphs
+Exponential LR
+  ![Increasing LR Exponentially(./extra/Exponential_LR.png)
+  
+  Linear LR
+  ![Increasing LR Exponentially(./extra/Sequential_LR.png)
