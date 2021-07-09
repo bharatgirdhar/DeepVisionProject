@@ -45,7 +45,7 @@ SoftMax
 
 ## LR Graphs
 Exponential LR
-  ![Increasing LR Exponentially(./extra/Exponential_LR.png)
+  ![Increasing LR Exponentially(/extra/Exponential_LR.png)
   
   Linear LR
-  ![Increasing LR Exponentially(./extra/Sequential_LR.png)
+  ![Increasing LR Exponentially(/extra/Sequential_LR.png)
