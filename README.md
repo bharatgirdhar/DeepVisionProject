@@ -28,39 +28,7 @@ SoftMax
 
 ## Model Summary
 
-----------------------------------------------------------------
-        Layer (type)               Output Shape         Param #
-================================================================
-            Conv2d-1           [-1, 64, 32, 32]           1,728
-       BatchNorm2d-2           [-1, 64, 32, 32]             128
-            Conv2d-3          [-1, 128, 32, 32]          73,728
-         MaxPool2d-4          [-1, 128, 16, 16]               0
-       BatchNorm2d-5          [-1, 128, 16, 16]             256
-            Conv2d-6          [-1, 128, 16, 16]         147,456
-       BatchNorm2d-7          [-1, 128, 16, 16]             256
-            Conv2d-8          [-1, 128, 16, 16]         147,456
-       BatchNorm2d-9          [-1, 128, 16, 16]             256
-           Conv2d-10          [-1, 256, 16, 16]         294,912
-        MaxPool2d-11            [-1, 256, 8, 8]               0
-      BatchNorm2d-12            [-1, 256, 8, 8]             512
-           Conv2d-13            [-1, 512, 8, 8]       1,179,648
-        MaxPool2d-14            [-1, 512, 4, 4]               0
-      BatchNorm2d-15            [-1, 512, 4, 4]           1,024
-           Conv2d-16            [-1, 512, 4, 4]       2,359,296
-      BatchNorm2d-17            [-1, 512, 4, 4]           1,024
-           Conv2d-18            [-1, 512, 4, 4]       2,359,296
-      BatchNorm2d-19            [-1, 512, 4, 4]           1,024
-        MaxPool2d-20            [-1, 512, 1, 1]               0
-           Linear-21                   [-1, 10]           5,130
-================================================================
-Total params: 6,573,130
-Trainable params: 6,573,130
-Non-trainable params: 0
-----------------------------------------------------------------
-Input size (MB): 0.01
-Forward/backward pass size (MB): 4.88
-Params size (MB): 25.07
-Estimated Total Size (MB): 29.97
+![Model Summary](/extra/Custom_Resnet_Summary.png)
 
 
 
